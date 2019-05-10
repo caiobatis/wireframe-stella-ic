@@ -7,13 +7,6 @@ Esse projeto é referente à uma iniciação cientifica, elaborada e estudada po
 Orientadora: Profa. Dra. Juliana de Lima Lopes
 Co-orientador: Prof. Dr. Vinícius Batista Santos
 
-## Introdução
+## Wireframes v1
 
-As doenças cardiovasculares (DCVs) são as principais causas de
-internação e óbito no mundo. Dentre este grupo de doenças, tem-se a doença
-arterial coronariana (DAC) e a síndrome coronariana aguda (SCA), cujo
-tratamento varia de acordo com a gravidade com que se apresentam, podendo
-ser clínico, hemodinâmico ou cirúrgico, que consiste na cirurgia de
-revascularização do miocárdio. A reabilitação pós-hospitalar aos pacientes
-revascularizados tem como objetivo permitir o retorno à vida produtiva o mais
-breve possível, além de restaurar sua melhor condição fisiológica e social.
+![Header and Masthead](/images/w1.jpg)
