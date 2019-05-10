@@ -10,3 +10,4 @@ Co-orientador: Prof. Dr. Vinícius Batista Santos
 ## Wireframes v1
 
 ![Header and Masthead](/images/w1.jpg)
+![Footer and Newsletter](/images/w2.jpg)
